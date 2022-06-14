@@ -9,7 +9,8 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### To Start Node Server
+
 ```
-yarn run build
+npm start
 ```
